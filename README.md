@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nguyen Huu Thoai
 - 👀 My goal is to become a frontend developer. Learning new languages and technologies is what I am passionate.
-- 🌱 I’m currently learning Javascript and React
+- 🌱 I’m currently learning NodeJs and ReactJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 Please contact me:
 - Facebook : https://www.facebook.com/huthoi.ne
